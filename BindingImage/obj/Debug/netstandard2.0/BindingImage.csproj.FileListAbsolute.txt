@@ -1,0 +1,14 @@
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\bin\Debug\netstandard2.0\BindingImage.deps.json
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\bin\Debug\netstandard2.0\BindingImage.dll
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\BindingImage.csprojAssemblyReference.cache
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\BindingImage.AssemblyInfoInputs.cache
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\BindingImage.AssemblyInfo.cs
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\bin\Debug\netstandard2.0\ref\BindingImage.dll
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\bin\Debug\netstandard2.0\BindingImage.pdb
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\View\PageFoto.xaml.g.cs
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\BindingImage.csproj.CoreCompileInputs.cache
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\BindingImage.dll
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\ref\BindingImage.dll
+C:\MPWJ\Mobile\Apps\BindingImage\BindingImage\BindingImage\obj\Debug\netstandard2.0\BindingImage.pdb

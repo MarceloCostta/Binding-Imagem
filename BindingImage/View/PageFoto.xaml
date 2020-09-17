@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BindingImage.View.PageFoto">
+    <StackLayout VerticalOptions="Center" Orientation="Vertical">
+        <Image x:Name="imgFoto" Source="{Binding CAD_IMAGEM}"/>
+        <Button Text="Escolher Foto"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                    Clicked="Button_Clicked"/>
+        <Button Text="Teste Command" Command="{Binding Commando}" />
+    </StackLayout>
+</ContentPage>
